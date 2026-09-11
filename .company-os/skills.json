@@ -27,6 +27,24 @@
       "cliVersion": "1.5.25",
       "installedAt": "2026-09-11T14:32:16.141Z",
       "discovery": "pending-fresh-session-check"
+    },
+    {
+      "name": "grill-me",
+      "agent": "codex",
+      "source": "https://github.com/LeanLabs0/CompanyOS",
+      "revision": "4074404ad3ad8d89fb5fdd455ebf2e8a979dac46",
+      "cliVersion": "1.5.25",
+      "installedAt": "2026-09-11T14:36:32.732Z",
+      "discovery": "pending-fresh-session-check"
+    },
+    {
+      "name": "unslop",
+      "agent": "codex",
+      "source": "https://github.com/cursor/plugins/tree/7366ac128bdf95f45e6734f412b49a4031800169/pstack/skills/unslop",
+      "revision": null,
+      "cliVersion": "1.5.25",
+      "installedAt": "2026-09-11T14:36:39.181Z",
+      "discovery": "pending-fresh-session-check"
     }
   ],
   "core": [
