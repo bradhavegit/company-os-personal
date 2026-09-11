@@ -1,7 +1,13 @@
 {
   "schema": 3,
-  "personal": null,
-  "company": null,
+  "personal": {
+    "url": "https://github.com/bradhavegit/company-os-personal",
+    "identity": "bradhavegit/company-os-personal"
+  },
+  "company": {
+    "url": "https://github.com/bradhavegit/leanlabs-company-os",
+    "identity": "bradhavegit/leanlabs-company-os"
+  },
   "personalBranch": "main",
   "companyBranch": "main"
 }

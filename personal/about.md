@@ -1,3 +1,5 @@
 # About me
 
-Not set up yet. Save only the identity, role, and working context the user supplies.
+Bradley is a developer working with Lean Labs.
+
+Source: user-provided onboarding context, 2026-09-11.

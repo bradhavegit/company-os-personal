@@ -1,3 +1,5 @@
 # Current priorities
 
-No priority saved yet. Record the priority, confirmation date, and any deadline.
+Set up and use Company OS for Lean Labs, starting with the leanlabs.com source.
+
+Confirmed: 2026-09-11. No deadline supplied.
